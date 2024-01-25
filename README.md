@@ -1,2 +1,2 @@
 # Mesamania
-Proyecto sencillo con Html y Css
+Proyecto sencillo de una pagina de juegos de mesa con Html y Css
